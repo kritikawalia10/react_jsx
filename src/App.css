@@ -1,1 +1,17 @@
 /* add your styles here */
+*{
+    justify-content: center;
+}
+.imagess{
+   display: flex;
+   flex-wrap: wrap;
+}
+img{
+    height: 400px;
+    width: 550px;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+h1{
+    text-align: center;
+}
